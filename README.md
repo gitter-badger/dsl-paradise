@@ -1,5 +1,7 @@
 # What?
 
+[![Join the chat at https://gitter.im/dsl-paradise/dsl-paradise](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dsl-paradise/dsl-paradise?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a Scala extension proposal, first introduced by [@lihaoyi](https://github.com/lihaoyi), with tiny syntax tweaks by [@stanch](https://github.com/stanch).
 See [corresponding discussion](https://groups.google.com/forum/#!topic/scala-debate/f4CLmYShX6Q) on *scala-debate*.
 
